@@ -1,0 +1,970 @@
+NumNets: 121
+NetDegree: 9
+bk13
+bk9b
+bk15b
+bk19
+bk17a
+VDD
+P19
+P35
+P13
+NetDegree: 5
+bk19
+bk5c
+bk14c
+P21
+P2
+NetDegree: 4
+bk3
+bk5a
+P26
+P29
+NetDegree: 9
+bk10b
+bk15b
+bk9c
+bk15a
+bk1
+bk18
+P35
+P20
+P17
+NetDegree: 7
+bk9b
+bk15a
+bk14b
+P2
+P24
+P8
+P30
+NetDegree: 9
+bk5a
+bk15b
+bk12
+bk18
+bk9a
+P19
+P32
+P7
+P23
+NetDegree: 5
+bk16
+bk5c
+POW
+P5
+P34
+NetDegree: 12
+bk17b
+bk10a
+bk14a
+bk12
+bk9c
+bk19
+P13
+P30
+P18
+P17
+P23
+VSS
+NetDegree: 5
+bk13
+bk9b
+P8
+P36
+P22
+NetDegree: 7
+bk5c
+bk8b
+bk13
+bk10b
+bk20
+bk21
+P3
+NetDegree: 5
+bk9b
+bk11
+bk10c
+VSS
+P16
+NetDegree: 8
+bk20
+bk14b
+bk9a
+bk9d
+bk14c
+bk5c
+P31
+P14
+NetDegree: 8
+bk10b
+bk8b
+P27
+P4
+P2
+P33
+P5
+GND
+NetDegree: 6
+bk16
+P13
+P28
+P2
+P12
+P30
+NetDegree: 6
+bk5b
+P20
+P8
+P15
+P30
+P4
+NetDegree: 9
+bk20
+bk11
+bk13
+bk10c
+bk1
+bk15b
+P13
+P5
+P8
+NetDegree: 9
+bk13
+bk5b
+bk17b
+bk19
+bk8a
+P35
+P3
+P28
+P12
+NetDegree: 4
+bk7
+bk14c
+P31
+P16
+NetDegree: 10
+bk8a
+bk20
+bk3
+bk9d
+bk4
+bk6
+P33
+P15
+P29
+P28
+NetDegree: 6
+bk21
+P29
+P34
+P37
+P4
+P21
+NetDegree: 12
+bk2
+bk6
+bk20
+bk8b
+bk14b
+bk16
+P9
+P28
+P30
+P19
+P11
+P10
+NetDegree: 3
+bk18
+P27
+P12
+NetDegree: 6
+bk15b
+bk10b
+bk17a
+bk4
+P31
+P12
+NetDegree: 7
+bk3
+bk10c
+bk10b
+bk17a
+bk5a
+bk9b
+P37
+NetDegree: 7
+bk10c
+bk6
+bk10b
+bk12
+bk15a
+bk4
+VDD
+NetDegree: 7
+bk14a
+bk10c
+bk11
+bk2
+bk12
+bk18
+P17
+NetDegree: 8
+bk9d
+bk16
+P23
+P7
+P17
+P31
+P36
+P2
+NetDegree: 6
+bk7
+bk17a
+P23
+P37
+P4
+P15
+NetDegree: 9
+bk9d
+bk9b
+bk12
+bk9a
+bk10c
+bk14b
+GND
+P31
+P14
+NetDegree: 8
+bk11
+bk3
+bk15a
+GND
+P2
+P24
+P14
+VDD
+NetDegree: 6
+bk7
+bk17a
+P35
+P34
+VSS
+P28
+NetDegree: 7
+bk19
+bk16
+bk14b
+bk4
+bk14c
+P33
+P8
+NetDegree: 5
+bk11
+bk3
+bk14a
+bk14b
+P20
+NetDegree: 9
+bk17b
+bk14c
+bk9c
+bk20
+bk3
+POW
+P34
+P28
+P15
+NetDegree: 5
+bk13
+bk10c
+P11
+P8
+P36
+NetDegree: 4
+bk12
+bk17b
+P34
+P10
+NetDegree: 9
+bk10b
+bk14a
+bk9a
+bk14c
+bk15b
+bk16
+P28
+P6
+P17
+NetDegree: 7
+bk13
+bk15b
+P27
+VDD
+P26
+P7
+P16
+NetDegree: 7
+bk7
+bk10c
+bk9c
+bk17a
+bk13
+bk16
+P24
+NetDegree: 6
+bk9c
+bk12
+bk11
+bk8a
+bk17b
+P21
+NetDegree: 8
+bk13
+bk4
+VSS
+P2
+P26
+P9
+P36
+P3
+NetDegree: 10
+bk7
+bk9d
+bk9a
+bk9b
+bk13
+bk10a
+P35
+P33
+P19
+P6
+NetDegree: 7
+bk5a
+bk3
+bk15a
+bk9c
+bk7
+P19
+P3
+NetDegree: 9
+bk2
+bk12
+bk10c
+bk17a
+bk14c
+bk13
+P31
+P20
+P21
+NetDegree: 5
+bk10b
+bk16
+P24
+P9
+P27
+NetDegree: 6
+bk4
+bk12
+bk10c
+P14
+P17
+P29
+NetDegree: 9
+bk10c
+bk13
+bk11
+bk20
+P25
+P29
+P32
+P16
+P27
+NetDegree: 6
+bk8b
+bk7
+bk12
+bk17a
+P33
+P2
+NetDegree: 8
+bk13
+bk2
+bk19
+bk15b
+P9
+P3
+P12
+P31
+NetDegree: 5
+bk17a
+bk10b
+bk7
+P2
+P21
+NetDegree: 9
+bk21
+bk14c
+bk5b
+bk15a
+P20
+P4
+P6
+P11
+P31
+NetDegree: 6
+bk10c
+P30
+P36
+P26
+P20
+P37
+NetDegree: 5
+bk12
+bk9a
+P19
+P33
+P16
+NetDegree: 5
+bk10c
+P29
+P7
+P14
+P27
+NetDegree: 8
+bk13
+bk14c
+bk9c
+P28
+P2
+P15
+P27
+P11
+NetDegree: 3
+bk10b
+bk16
+P30
+NetDegree: 3
+bk2
+P29
+P19
+NetDegree: 8
+bk10c
+bk10b
+bk14c
+bk13
+bk3
+bk5a
+P20
+P30
+NetDegree: 9
+bk14b
+bk9a
+bk2
+bk8a
+P34
+POW
+P16
+P23
+VDD
+NetDegree: 3
+bk11
+GND
+P19
+NetDegree: 3
+bk21
+bk5b
+P28
+NetDegree: 3
+bk12
+P4
+P13
+NetDegree: 6
+bk13
+bk1
+P7
+P15
+P21
+P23
+NetDegree: 10
+bk13
+bk8b
+bk16
+bk10b
+bk9d
+P5
+P11
+P34
+P10
+P18
+NetDegree: 11
+bk7
+bk19
+bk11
+bk9a
+bk10b
+bk16
+P15
+VDD
+P35
+P26
+P19
+NetDegree: 4
+bk10c
+P18
+P25
+P3
+NetDegree: 4
+bk4
+bk10c
+P18
+P37
+NetDegree: 4
+bk7
+bk9b
+bk10c
+P13
+NetDegree: 8
+bk10a
+bk16
+bk3
+bk9b
+bk9d
+bk9a
+P8
+P3
+NetDegree: 5
+bk7
+bk15a
+P3
+P7
+P8
+NetDegree: 7
+bk5b
+bk10b
+bk8b
+P9
+P29
+P20
+P18
+NetDegree: 7
+bk17a
+bk5b
+bk8b
+bk5c
+bk1
+P13
+P25
+NetDegree: 9
+bk19
+bk17b
+bk14b
+bk20
+bk15a
+P29
+P30
+P5
+P25
+NetDegree: 9
+bk14c
+bk18
+bk4
+bk11
+P15
+P34
+P29
+P3
+P13
+NetDegree: 4
+bk17a
+bk2
+bk5a
+P32
+NetDegree: 7
+bk5a
+bk8b
+bk19
+bk10c
+bk14c
+bk5c
+P36
+NetDegree: 6
+bk16
+bk5c
+P35
+P12
+P14
+P18
+NetDegree: 8
+bk20
+bk5c
+VDD
+P23
+P19
+GND
+P14
+P18
+NetDegree: 9
+bk15a
+bk16
+bk4
+bk9d
+bk14a
+bk11
+P4
+VDD
+P30
+NetDegree: 10
+bk1
+bk5c
+bk5b
+bk11
+bk10a
+P23
+P34
+VDD
+P11
+P28
+NetDegree: 11
+bk19
+bk8b
+bk2
+bk17b
+bk10b
+P3
+P36
+P9
+P34
+GND
+P15
+NetDegree: 7
+bk16
+bk17a
+bk21
+bk1
+bk10c
+P2
+P5
+NetDegree: 10
+bk10c
+bk8a
+bk4
+bk9d
+P25
+P9
+P33
+P12
+P11
+P7
+NetDegree: 10
+bk18
+bk5c
+bk13
+bk15a
+P24
+P27
+P13
+P3
+P19
+P35
+NetDegree: 8
+bk21
+bk5c
+bk1
+bk15a
+bk11
+bk10b
+P16
+P12
+NetDegree: 9
+bk1
+bk4
+bk6
+P32
+P4
+P9
+P28
+P5
+P10
+NetDegree: 8
+bk15a
+bk8a
+P29
+GND
+P5
+P19
+P14
+POW
+NetDegree: 11
+bk14a
+bk5a
+bk15b
+bk5c
+bk2
+bk17a
+P4
+VSS
+P11
+P30
+P21
+NetDegree: 10
+bk5a
+bk5b
+bk3
+bk4
+bk19
+P10
+P32
+P37
+GND
+P24
+NetDegree: 7
+bk21
+bk3
+bk18
+bk10b
+bk8b
+P11
+GND
+NetDegree: 8
+bk5c
+bk18
+bk9b
+bk17b
+bk6
+GND
+P14
+P5
+NetDegree: 9
+bk5c
+bk9b
+bk1
+P10
+P30
+P15
+P4
+VSS
+P3
+NetDegree: 9
+bk9c
+bk9a
+bk18
+P17
+P9
+P26
+P31
+P18
+P2
+NetDegree: 8
+bk14c
+bk9d
+P19
+P29
+P8
+P13
+P24
+P18
+NetDegree: 4
+bk9c
+P33
+P14
+P10
+NetDegree: 5
+bk1
+bk15a
+bk11
+P2
+P16
+NetDegree: 4
+bk17b
+bk20
+bk15b
+P12
+NetDegree: 12
+bk2
+bk6
+bk7
+bk18
+bk21
+bk13
+P19
+P25
+P8
+P34
+GND
+P17
+NetDegree: 10
+bk11
+bk3
+bk17a
+bk14c
+bk5b
+bk10a
+P24
+P25
+GND
+P32
+NetDegree: 3
+bk8a
+P12
+P19
+NetDegree: 3
+bk7
+P19
+P27
+NetDegree: 7
+bk9c
+P15
+P30
+P14
+GND
+P11
+P34
+NetDegree: 9
+bk8b
+bk7
+bk9c
+bk6
+bk11
+P29
+P33
+P23
+P28
+NetDegree: 4
+bk15a
+bk17a
+P34
+P2
+NetDegree: 10
+bk5a
+bk9d
+bk17a
+bk9c
+P6
+VDD
+P9
+P8
+POW
+VSS
+NetDegree: 9
+bk7
+bk9a
+bk10a
+bk20
+P9
+P13
+P4
+P29
+P31
+NetDegree: 4
+bk1
+P10
+P7
+P13
+NetDegree: 5
+bk3
+P15
+P17
+P13
+VDD
+NetDegree: 5
+bk3
+P17
+P21
+P6
+P24
+NetDegree: 8
+bk19
+bk14b
+bk10c
+bk1
+bk14a
+bk5c
+P21
+P11
+NetDegree: 7
+bk15a
+bk16
+bk2
+bk10c
+bk15b
+bk14a
+P37
+NetDegree: 10
+bk1
+bk9a
+bk17a
+bk4
+bk9d
+P7
+P9
+P28
+VDD
+P21
+NetDegree: 11
+bk5b
+bk9a
+bk10b
+bk4
+bk10c
+P34
+GND
+P30
+P6
+P21
+P4
+NetDegree: 2
+bk14b
+P28
+NetDegree: 8
+bk8b
+bk18
+bk4
+bk5a
+bk8a
+P12
+POW
+GND
+NetDegree: 7
+bk5a
+bk8a
+bk19
+bk4
+bk2
+P30
+P22
+NetDegree: 6
+bk18
+bk14c
+bk15b
+bk4
+bk19
+P30
+NetDegree: 6
+bk10a
+bk15b
+P18
+P23
+P10
+P30
+NetDegree: 9
+bk10c
+bk15b
+bk6
+bk9d
+bk9c
+P24
+P21
+P33
+P26
+NetDegree: 4
+bk13
+P7
+P2
+P33
+NetDegree: 4
+bk3
+P23
+P17
+P31

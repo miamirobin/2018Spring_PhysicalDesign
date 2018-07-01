@@ -1,0 +1,367 @@
+NumNets: 118
+NetDegree: 2
+sb6
+p1
+NetDegree: 2
+sb8
+p2
+NetDegree: 2
+sb5
+p3
+NetDegree: 2
+sb5
+p4
+NetDegree: 2
+sb8
+p5
+NetDegree: 2
+sb0
+p6
+NetDegree: 2
+sb6
+p7
+NetDegree: 2
+sb6
+p8
+NetDegree: 2
+sb5
+p9
+NetDegree: 2
+sb7
+p10
+NetDegree: 2
+sb8
+p11
+NetDegree: 2
+sb7
+p12
+NetDegree: 2
+sb5
+p13
+NetDegree: 2
+sb8
+p14
+NetDegree: 2
+sb6
+p15
+NetDegree: 2
+sb3
+p16
+NetDegree: 2
+sb3
+p17
+NetDegree: 2
+sb5
+p18
+NetDegree: 2
+sb5
+p19
+NetDegree: 2
+sb7
+p20
+NetDegree: 2
+sb5
+p21
+NetDegree: 2
+sb1
+p22
+NetDegree: 2
+sb3
+p23
+NetDegree: 2
+sb7
+p24
+NetDegree: 2
+sb3
+p25
+NetDegree: 2
+sb5
+p26
+NetDegree: 2
+sb7
+p27
+NetDegree: 2
+sb6
+p28
+NetDegree: 2
+sb6
+p29
+NetDegree: 2
+sb8
+p30
+NetDegree: 2
+sb0
+p31
+NetDegree: 2
+sb5
+p32
+NetDegree: 2
+sb0
+p33
+NetDegree: 2
+sb3
+p34
+NetDegree: 2
+sb6
+p35
+NetDegree: 2
+sb8
+p36
+NetDegree: 2
+sb3
+p37
+NetDegree: 2
+sb7
+p38
+NetDegree: 2
+sb7
+p39
+NetDegree: 2
+sb6
+p40
+NetDegree: 2
+sb7
+p41
+NetDegree: 2
+sb5
+p42
+NetDegree: 2
+sb0
+p43
+NetDegree: 2
+sb7
+p44
+NetDegree: 2
+sb1
+p45
+NetDegree: 2
+sb7
+p46
+NetDegree: 2
+sb3
+p47
+NetDegree: 2
+sb7
+p48
+NetDegree: 4
+sb0
+sb4
+sb2
+p49
+NetDegree: 2
+sb4
+p50
+NetDegree: 2
+sb6
+p51
+NetDegree: 3
+sb7
+sb8
+p52
+NetDegree: 2
+sb4
+p53
+NetDegree: 2
+sb8
+p54
+NetDegree: 2
+sb7
+p55
+NetDegree: 2
+sb7
+p56
+NetDegree: 3
+sb8
+sb9
+p57
+NetDegree: 3
+sb0
+sb1
+p58
+NetDegree: 2
+sb7
+p59
+NetDegree: 2
+sb7
+p60
+NetDegree: 2
+sb8
+p61
+NetDegree: 2
+sb4
+p62
+NetDegree: 2
+sb8
+p63
+NetDegree: 2
+sb4
+p64
+NetDegree: 2
+sb4
+p65
+NetDegree: 2
+sb7
+p66
+NetDegree: 2
+sb4
+p67
+NetDegree: 3
+sb2
+sb8
+p68
+NetDegree: 2
+sb8
+p69
+NetDegree: 3
+sb6
+sb5
+sb3
+NetDegree: 2
+sb6
+sb3
+NetDegree: 2
+sb3
+sb0
+NetDegree: 2
+sb5
+sb1
+NetDegree: 2
+sb3
+sb5
+NetDegree: 2
+sb1
+sb4
+NetDegree: 2
+sb5
+sb1
+NetDegree: 2
+sb1
+sb7
+NetDegree: 2
+sb3
+sb0
+NetDegree: 2
+sb7
+sb9
+NetDegree: 2
+sb1
+sb7
+NetDegree: 3
+sb6
+sb8
+sb3
+NetDegree: 3
+sb5
+sb0
+sb1
+NetDegree: 2
+sb1
+sb8
+NetDegree: 2
+sb9
+sb4
+NetDegree: 2
+sb1
+sb7
+NetDegree: 2
+sb9
+sb4
+NetDegree: 2
+sb1
+sb8
+NetDegree: 4
+sb2
+sb9
+sb1
+sb8
+NetDegree: 2
+sb9
+sb4
+NetDegree: 2
+sb7
+sb9
+NetDegree: 2
+sb0
+sb2
+NetDegree: 2
+sb3
+sb7
+NetDegree: 2
+sb8
+sb9
+NetDegree: 2
+sb3
+sb8
+NetDegree: 2
+sb5
+sb9
+NetDegree: 2
+sb9
+sb4
+NetDegree: 2
+sb0
+sb1
+NetDegree: 2
+sb8
+sb9
+NetDegree: 2
+sb6
+sb2
+NetDegree: 2
+sb9
+sb4
+NetDegree: 2
+sb0
+sb9
+NetDegree: 2
+sb3
+sb0
+NetDegree: 2
+sb0
+sb2
+NetDegree: 2
+sb7
+sb9
+NetDegree: 2
+sb5
+sb2
+NetDegree: 2
+sb1
+sb7
+NetDegree: 2
+sb9
+sb4
+NetDegree: 2
+sb7
+sb9
+NetDegree: 2
+sb8
+sb9
+NetDegree: 2
+sb5
+sb2
+NetDegree: 2
+sb5
+sb1
+NetDegree: 2
+sb1
+sb7
+NetDegree: 2
+sb5
+sb1
+NetDegree: 2
+sb9
+sb4
+NetDegree: 2
+sb9
+sb4
+NetDegree: 3
+sb3
+sb1
+sb5
+NetDegree: 2
+sb2
+sb8
+NetDegree: 2
+sb0
+sb2

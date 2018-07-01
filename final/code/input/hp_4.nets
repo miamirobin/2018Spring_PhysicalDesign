@@ -1,0 +1,490 @@
+NumNets: 70
+NetDegree: 5
+cmp2
+cntd
+vin1
+busa1
+vin
+NetDegree: 6
+cmp1
+nps
+cmp2
+npd
+clkc
+busa4
+NetDegree: 7
+cmp2
+npd
+cntu
+clkc
+cmp3
+busa5
+busb4
+NetDegree: 8
+cntd
+npd
+cntu
+pps
+vin2
+b7
+busa4
+bu2
+NetDegree: 10
+cntd
+pps
+cmp3
+clkd
+clkc
+mk2
+b4
+busa3
+busa1
+b3
+NetDegree: 7
+cntd
+ppd
+nps
+cmp3
+npd
+vdd
+b7
+NetDegree: 10
+npd
+clkd
+nps
+cmp2
+clkc
+bu5
+busa5
+rs1
+busa2
+b2
+NetDegree: 7
+cmp1
+cmp2
+nps
+cmp3
+mc2
+vdda
+bu0
+NetDegree: 7
+pps
+cntu
+cmp2
+b1
+busb1
+mk2
+busb4
+NetDegree: 4
+clkc
+cntd
+npd
+mk1
+NetDegree: 9
+nps
+ppd
+pps
+cmp2
+b6
+b0
+b4
+bu6
+vin
+NetDegree: 4
+cntd
+cmp3
+vin2
+bu7
+NetDegree: 6
+clkd
+ppd
+cmp1
+vin2
+busa4
+mcu
+NetDegree: 6
+pps
+cntu
+cmp2
+cntd
+clkc
+busa6
+NetDegree: 4
+npd
+b0
+bu1
+bu3
+NetDegree: 9
+cntu
+clkd
+cmp3
+ppd
+cntd
+bu3
+bu2
+busa1
+rs1
+NetDegree: 5
+ppd
+cntd
+clkc
+nps
+busa5
+NetDegree: 7
+pps
+ppd
+busa6
+b6
+b3
+busb2
+bu2
+NetDegree: 7
+cmp2
+pps
+clkd
+npd
+busb2
+busa6
+gnd2
+NetDegree: 7
+cmp2
+clkd
+cmp1
+pps
+ppd
+busb2
+busb1
+NetDegree: 7
+cntd
+clkc
+pps
+cmp1
+mcd
+b2
+b1
+NetDegree: 4
+clkd
+cntu
+npd
+vdda
+NetDegree: 3
+nps
+b0
+busa7
+NetDegree: 7
+nps
+cmp1
+cmp2
+npd
+pps
+busa4
+mc2
+NetDegree: 5
+pps
+busa5
+busb2
+busa1
+mk1
+NetDegree: 6
+cmp3
+cntu
+cmp2
+cntd
+busa1
+mcd
+NetDegree: 8
+pps
+clkd
+cntu
+cmp2
+b6
+rs2
+vdd
+busa4
+NetDegree: 6
+clkd
+clkc
+cntu
+nps
+bu7
+b0
+NetDegree: 6
+cmp2
+b3
+vss
+bu1
+busa3
+busa5
+NetDegree: 4
+cntu
+clkc
+vss
+bu2
+NetDegree: 7
+clkd
+clkc
+cmp3
+cmp1
+vin1
+mc2
+bu1
+NetDegree: 2
+clkc
+vin1
+NetDegree: 6
+pps
+busa1
+busa8
+b3
+vin2
+busa7
+NetDegree: 6
+cmp2
+clkc
+clkd
+cntu
+ppd
+b5
+NetDegree: 4
+ppd
+busb3
+mk2
+bu7
+NetDegree: 7
+npd
+cmp2
+cmp1
+cmp3
+bu0
+bu2
+bu7
+NetDegree: 7
+npd
+cntu
+cmp2
+clkc
+pps
+b0
+b5
+NetDegree: 5
+clkd
+cmp1
+clkc
+nps
+busb3
+NetDegree: 7
+cmp1
+ppd
+b7
+busb2
+busb4
+bu3
+busa8
+NetDegree: 2
+clkd
+busa4
+NetDegree: 3
+nps
+mcd
+busa2
+NetDegree: 6
+clkd
+cmp1
+cmp3
+cntu
+clkc
+vssa
+NetDegree: 3
+pps
+cmp3
+mk1
+NetDegree: 4
+nps
+cmp2
+busa7
+b0
+NetDegree: 8
+pps
+clkd
+cmp1
+bu0
+busa6
+b4
+vdd
+b3
+NetDegree: 8
+cmp2
+clkd
+cntd
+npd
+ppd
+mk1
+gnd1
+bu1
+NetDegree: 3
+clkd
+mc1
+vdda
+NetDegree: 8
+ppd
+cmp1
+pps
+rs1
+bu3
+vin
+busa6
+bu5
+NetDegree: 4
+nps
+vssa
+busa8
+busb4
+NetDegree: 5
+cntu
+pps
+vssa
+bu2
+busb2
+NetDegree: 5
+ppd
+cmp1
+busa3
+mk2
+bu4
+NetDegree: 5
+nps
+npd
+busa5
+busa4
+bu0
+NetDegree: 7
+cmp2
+clkc
+ppd
+vss
+mk1
+mcd
+busa5
+NetDegree: 3
+cmp3
+gnd1
+bu2
+NetDegree: 4
+nps
+pps
+mcd
+busb4
+NetDegree: 8
+pps
+clkd
+nps
+mk2
+vdd
+b3
+gnd1
+b4
+NetDegree: 5
+cmp1
+busa3
+bu4
+mcu
+busa8
+NetDegree: 5
+cmp2
+busa7
+b1
+mcu
+busb4
+NetDegree: 7
+clkc
+cmp2
+nps
+b7
+vdd
+busb2
+busa8
+NetDegree: 5
+npd
+vss
+b6
+busb1
+gnd2
+NetDegree: 5
+clkc
+cntu
+cmp1
+b7
+vss
+NetDegree: 5
+nps
+pps
+mc2
+b3
+mcd
+NetDegree: 4
+cntu
+b7
+busa1
+busb1
+NetDegree: 9
+clkc
+cntu
+clkd
+nps
+cmp1
+bu4
+bu7
+busa1
+mc1
+NetDegree: 10
+clkc
+cmp1
+pps
+cntd
+cntu
+busa7
+bu0
+vss
+vin2
+b2
+NetDegree: 6
+clkc
+ppd
+mc2
+busa8
+vin1
+busa1
+NetDegree: 7
+cmp2
+clkd
+b5
+mc1
+busa7
+bu6
+busa4
+NetDegree: 6
+ppd
+cntd
+cmp3
+busa2
+b7
+vdd
+NetDegree: 10
+npd
+cmp1
+ppd
+clkc
+pps
+b4
+gnd1
+b2
+vin1
+busa3
+NetDegree: 7
+ppd
+cmp1
+busa5
+bu7
+bu2
+gnd2
+busa7

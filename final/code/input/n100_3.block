@@ -1,0 +1,438 @@
+Outline: 443 602
+NumBlocks: 100
+NumTerminals: 334
+
+sb0 47 29
+sb1 71 33
+sb2 58 30
+sb3 73 33
+sb4 31 17
+sb5 53 35
+sb6 44 16
+sb7 44 19
+sb8 68 45
+sb9 45 14
+sb10 57 16
+sb11 64 35
+sb12 67 25
+sb13 62 43
+sb14 69 38
+sb15 64 46
+sb16 62 32
+sb17 72 39
+sb18 56 43
+sb19 55 27
+sb20 40 17
+sb21 70 45
+sb22 53 30
+sb23 53 18
+sb24 49 25
+sb25 59 35
+sb26 60 36
+sb27 71 22
+sb28 50 35
+sb29 68 21
+sb30 28 21
+sb31 37 23
+sb32 58 38
+sb33 38 19
+sb34 59 24
+sb35 41 27
+sb36 73 35
+sb37 66 18
+sb38 62 20
+sb39 60 46
+sb40 31 23
+sb41 60 24
+sb42 68 47
+sb43 67 41
+sb44 71 42
+sb45 48 20
+sb46 42 19
+sb47 71 29
+sb48 62 24
+sb49 71 42
+sb50 73 28
+sb51 62 34
+sb52 59 40
+sb53 47 18
+sb54 67 16
+sb55 61 30
+sb56 69 15
+sb57 51 16
+sb58 50 30
+sb59 55 33
+sb60 44 20
+sb61 36 20
+sb62 66 17
+sb63 49 32
+sb64 55 42
+sb65 62 50
+sb66 73 54
+sb67 48 36
+sb68 69 46
+sb69 59 24
+sb70 46 37
+sb71 70 19
+sb72 67 54
+sb73 73 54
+sb74 46 34
+sb75 30 17
+sb76 36 19
+sb77 72 51
+sb78 39 28
+sb79 66 36
+sb80 63 14
+sb81 55 36
+sb82 62 42
+sb83 24 14
+sb84 73 19
+sb85 27 18
+sb86 61 33
+sb87 48 35
+sb88 40 21
+sb89 41 24
+sb90 42 29
+sb91 61 29
+sb92 28 14
+sb93 71 31
+sb94 64 36
+sb95 56 17
+sb96 72 36
+sb97 73 15
+sb98 68 19
+sb99 72 44
+p1 terminal 0 0
+p2 terminal 9 0
+p3 terminal 19 0
+p4 terminal 28 0
+p5 terminal 38 0
+p6 terminal 47 0
+p7 terminal 57 0
+p8 terminal 66 0
+p9 terminal 76 0
+p10 terminal 85 0
+p11 terminal 95 0
+p12 terminal 104 0
+p13 terminal 114 0
+p14 terminal 123 0
+p15 terminal 133 0
+p16 terminal 142 0
+p17 terminal 152 0
+p18 terminal 161 0
+p19 terminal 171 0
+p20 terminal 180 0
+p21 terminal 190 0
+p22 terminal 200 0
+p23 terminal 209 0
+p24 terminal 219 0
+p25 terminal 228 0
+p26 terminal 238 0
+p27 terminal 247 0
+p28 terminal 257 0
+p29 terminal 266 0
+p30 terminal 276 0
+p31 terminal 285 0
+p32 terminal 295 0
+p33 terminal 304 0
+p34 terminal 314 0
+p35 terminal 323 0
+p36 terminal 333 0
+p37 terminal 342 0
+p38 terminal 352 0
+p39 terminal 361 0
+p40 terminal 371 0
+p41 terminal 380 0
+p42 terminal 390 0
+p43 terminal 400 0
+p44 terminal 409 0
+p45 terminal 419 0
+p46 terminal 428 0
+p47 terminal 438 0
+p48 terminal 447 0
+p49 terminal 457 0
+p50 terminal 466 0
+p51 terminal 476 0
+p52 terminal 485 0
+p53 terminal 495 0
+p54 terminal 504 0
+p55 terminal 514 0
+p56 terminal 523 0
+p57 terminal 533 0
+p58 terminal 542 0
+p59 terminal 552 0
+p60 terminal 561 0
+p61 terminal 571 0
+p62 terminal 580 0
+p63 terminal 590 0
+p64 terminal 600 0
+p65 terminal 609 0
+p66 terminal 619 0
+p67 terminal 628 0
+p68 terminal 638 0
+p69 terminal 647 0
+p70 terminal 657 0
+p71 terminal 666 0
+p72 terminal 676 0
+p73 terminal 685 0
+p74 terminal 695 0
+p75 terminal 704 0
+p76 terminal 714 0
+p77 terminal 723 0
+p78 terminal 733 0
+p79 terminal 742 0
+p80 terminal 752 0
+p81 terminal 761 0
+p82 terminal 771 0
+p83 terminal 780 0
+p84 terminal 790 0
+p85 terminal 800 0
+p86 terminal 800 9
+p87 terminal 800 19
+p88 terminal 800 28
+p89 terminal 800 38
+p90 terminal 800 47
+p91 terminal 800 57
+p92 terminal 800 66
+p93 terminal 800 76
+p94 terminal 800 85
+p95 terminal 800 95
+p96 terminal 800 104
+p97 terminal 800 114
+p98 terminal 800 123
+p99 terminal 800 133
+p100 terminal 800 142
+p101 terminal 800 152
+p102 terminal 800 161
+p103 terminal 800 171
+p104 terminal 800 180
+p105 terminal 800 190
+p106 terminal 800 200
+p107 terminal 800 209
+p108 terminal 800 219
+p109 terminal 800 228
+p110 terminal 800 238
+p111 terminal 800 247
+p112 terminal 800 257
+p113 terminal 800 266
+p114 terminal 800 276
+p115 terminal 800 285
+p116 terminal 800 295
+p117 terminal 800 304
+p118 terminal 800 314
+p119 terminal 800 323
+p120 terminal 800 333
+p121 terminal 800 342
+p122 terminal 800 352
+p123 terminal 800 361
+p124 terminal 800 371
+p125 terminal 800 380
+p126 terminal 800 390
+p127 terminal 800 400
+p128 terminal 800 409
+p129 terminal 800 419
+p130 terminal 800 428
+p131 terminal 800 438
+p132 terminal 800 447
+p133 terminal 800 457
+p134 terminal 800 466
+p135 terminal 800 476
+p136 terminal 800 485
+p137 terminal 800 495
+p138 terminal 800 504
+p139 terminal 800 514
+p140 terminal 800 523
+p141 terminal 800 533
+p142 terminal 800 542
+p143 terminal 800 552
+p144 terminal 800 561
+p145 terminal 800 571
+p146 terminal 800 580
+p147 terminal 800 590
+p148 terminal 800 600
+p149 terminal 800 609
+p150 terminal 800 619
+p151 terminal 800 628
+p152 terminal 800 638
+p153 terminal 800 647
+p154 terminal 800 657
+p155 terminal 800 666
+p156 terminal 800 676
+p157 terminal 800 685
+p158 terminal 800 695
+p159 terminal 800 704
+p160 terminal 800 714
+p161 terminal 800 723
+p162 terminal 800 733
+p163 terminal 800 742
+p164 terminal 800 752
+p165 terminal 800 761
+p166 terminal 800 771
+p167 terminal 800 780
+p168 terminal 800 790
+p169 terminal 790 800
+p170 terminal 780 800
+p171 terminal 771 800
+p172 terminal 761 800
+p173 terminal 752 800
+p174 terminal 742 800
+p175 terminal 733 800
+p176 terminal 723 800
+p177 terminal 714 800
+p178 terminal 704 800
+p179 terminal 695 800
+p180 terminal 685 800
+p181 terminal 676 800
+p182 terminal 666 800
+p183 terminal 657 800
+p184 terminal 647 800
+p185 terminal 638 800
+p186 terminal 628 800
+p187 terminal 619 800
+p188 terminal 609 800
+p189 terminal 600 800
+p190 terminal 590 800
+p191 terminal 580 800
+p192 terminal 571 800
+p193 terminal 561 800
+p194 terminal 552 800
+p195 terminal 542 800
+p196 terminal 533 800
+p197 terminal 523 800
+p198 terminal 514 800
+p199 terminal 504 800
+p200 terminal 495 800
+p201 terminal 485 800
+p202 terminal 476 800
+p203 terminal 466 800
+p204 terminal 457 800
+p205 terminal 447 800
+p206 terminal 438 800
+p207 terminal 428 800
+p208 terminal 419 800
+p209 terminal 409 800
+p210 terminal 400 800
+p211 terminal 390 800
+p212 terminal 380 800
+p213 terminal 371 800
+p214 terminal 361 800
+p215 terminal 352 800
+p216 terminal 342 800
+p217 terminal 333 800
+p218 terminal 323 800
+p219 terminal 314 800
+p220 terminal 304 800
+p221 terminal 295 800
+p222 terminal 285 800
+p223 terminal 276 800
+p224 terminal 266 800
+p225 terminal 257 800
+p226 terminal 247 800
+p227 terminal 238 800
+p228 terminal 228 800
+p229 terminal 219 800
+p230 terminal 209 800
+p231 terminal 200 800
+p232 terminal 190 800
+p233 terminal 180 800
+p234 terminal 171 800
+p235 terminal 161 800
+p236 terminal 152 800
+p237 terminal 142 800
+p238 terminal 133 800
+p239 terminal 123 800
+p240 terminal 114 800
+p241 terminal 104 800
+p242 terminal 95 800
+p243 terminal 85 800
+p244 terminal 76 800
+p245 terminal 66 800
+p246 terminal 57 800
+p247 terminal 47 800
+p248 terminal 38 800
+p249 terminal 28 800
+p250 terminal 19 800
+p251 terminal 9 800
+p252 terminal 0 800
+p253 terminal 0 790
+p254 terminal 0 780
+p255 terminal 0 771
+p256 terminal 0 761
+p257 terminal 0 752
+p258 terminal 0 742
+p259 terminal 0 733
+p260 terminal 0 723
+p261 terminal 0 714
+p262 terminal 0 704
+p263 terminal 0 695
+p264 terminal 0 685
+p265 terminal 0 676
+p266 terminal 0 666
+p267 terminal 0 657
+p268 terminal 0 647
+p269 terminal 0 638
+p270 terminal 0 628
+p271 terminal 0 619
+p272 terminal 0 609
+p273 terminal 0 600
+p274 terminal 0 590
+p275 terminal 0 580
+p276 terminal 0 571
+p277 terminal 0 561
+p278 terminal 0 552
+p279 terminal 0 542
+p280 terminal 0 533
+p281 terminal 0 523
+p282 terminal 0 514
+p283 terminal 0 504
+p284 terminal 0 495
+p285 terminal 0 485
+p286 terminal 0 476
+p287 terminal 0 466
+p288 terminal 0 457
+p289 terminal 0 447
+p290 terminal 0 438
+p291 terminal 0 428
+p292 terminal 0 419
+p293 terminal 0 409
+p294 terminal 0 400
+p295 terminal 0 390
+p296 terminal 0 380
+p297 terminal 0 371
+p298 terminal 0 361
+p299 terminal 0 352
+p300 terminal 0 342
+p301 terminal 0 333
+p302 terminal 0 323
+p303 terminal 0 314
+p304 terminal 0 304
+p305 terminal 0 295
+p306 terminal 0 285
+p307 terminal 0 276
+p308 terminal 0 266
+p309 terminal 0 257
+p310 terminal 0 247
+p311 terminal 0 238
+p312 terminal 0 228
+p313 terminal 0 219
+p314 terminal 0 209
+p315 terminal 0 200
+p316 terminal 0 190
+p317 terminal 0 180
+p318 terminal 0 171
+p319 terminal 0 161
+p320 terminal 0 152
+p321 terminal 0 142
+p322 terminal 0 133
+p323 terminal 0 123
+p324 terminal 0 114
+p325 terminal 0 104
+p326 terminal 0 95
+p327 terminal 0 85
+p328 terminal 0 76
+p329 terminal 0 66
+p330 terminal 0 57
+p331 terminal 0 47
+p332 terminal 0 38
+p333 terminal 0 28
+p334 terminal 0 19

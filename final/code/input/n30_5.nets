@@ -1,0 +1,2744 @@
+NumNets: 349
+NetDegree: 7
+sb21
+sb26
+sb29
+sb13
+sb12
+p72
+p56
+NetDegree: 9
+sb29
+sb22
+sb19
+sb20
+sb12
+p100
+p134
+p179
+p5
+NetDegree: 7
+sb16
+p65
+p66
+p76
+p106
+p123
+p60
+NetDegree: 8
+sb3
+sb6
+p62
+p179
+p196
+p93
+p38
+p39
+NetDegree: 7
+sb2
+sb25
+sb10
+p147
+p154
+p111
+p100
+NetDegree: 7
+sb4
+sb2
+sb21
+sb24
+sb14
+sb7
+p143
+NetDegree: 6
+sb1
+sb5
+sb26
+sb8
+p175
+p133
+NetDegree: 3
+sb1
+sb22
+p158
+NetDegree: 8
+sb20
+sb17
+sb0
+p18
+p100
+p75
+p170
+p34
+NetDegree: 7
+sb28
+sb18
+sb29
+p95
+p52
+p75
+p191
+NetDegree: 9
+sb1
+sb6
+sb17
+sb27
+sb18
+p188
+p173
+p41
+p166
+NetDegree: 7
+sb29
+sb5
+sb13
+sb21
+p31
+p171
+p10
+NetDegree: 9
+sb13
+sb15
+sb0
+sb1
+sb6
+sb17
+p50
+p117
+p124
+NetDegree: 5
+sb22
+sb20
+sb3
+sb11
+p47
+NetDegree: 5
+sb20
+sb15
+sb16
+p170
+p121
+NetDegree: 3
+sb6
+sb22
+p168
+NetDegree: 8
+sb11
+sb1
+sb20
+sb3
+sb24
+sb19
+p175
+p12
+NetDegree: 8
+sb19
+sb25
+sb9
+sb23
+p124
+p68
+p200
+p23
+NetDegree: 5
+sb9
+p176
+p88
+p165
+p204
+NetDegree: 3
+sb26
+sb25
+p9
+NetDegree: 5
+sb2
+sb3
+p21
+p168
+p162
+NetDegree: 7
+sb27
+p122
+p15
+p39
+p143
+p40
+p162
+NetDegree: 10
+sb14
+sb17
+sb4
+sb15
+sb26
+sb13
+p60
+p23
+p46
+p169
+NetDegree: 6
+sb18
+sb2
+sb4
+p15
+p126
+p5
+NetDegree: 8
+sb26
+sb21
+sb17
+sb25
+sb19
+p1
+p120
+p98
+NetDegree: 8
+sb12
+sb13
+p5
+p151
+p93
+p36
+p20
+p185
+NetDegree: 7
+sb4
+sb11
+sb20
+sb22
+sb13
+sb16
+p151
+NetDegree: 7
+sb8
+sb1
+sb13
+sb29
+sb10
+p58
+p10
+NetDegree: 8
+sb22
+sb12
+sb1
+sb4
+sb25
+p183
+p21
+p153
+NetDegree: 10
+sb14
+sb24
+sb18
+sb25
+p11
+p189
+p52
+p18
+p159
+p44
+NetDegree: 9
+sb26
+sb23
+sb6
+sb7
+sb16
+p124
+p84
+p194
+p50
+NetDegree: 5
+sb5
+sb11
+sb14
+sb25
+p10
+NetDegree: 10
+sb11
+sb17
+sb15
+sb21
+p180
+p74
+p78
+p51
+p123
+p24
+NetDegree: 5
+sb14
+sb28
+p175
+p26
+p16
+NetDegree: 6
+sb8
+sb15
+sb2
+sb24
+sb14
+p182
+NetDegree: 9
+sb3
+sb16
+sb2
+sb24
+p204
+p112
+p61
+p79
+p5
+NetDegree: 3
+sb21
+sb24
+p43
+NetDegree: 8
+sb6
+sb23
+sb14
+sb3
+sb26
+sb11
+p115
+p204
+NetDegree: 7
+sb16
+sb11
+p207
+p15
+p138
+p198
+p126
+NetDegree: 5
+sb0
+p73
+p35
+p185
+p20
+NetDegree: 7
+sb11
+sb28
+sb12
+sb26
+p131
+p46
+p79
+NetDegree: 7
+sb4
+p194
+p101
+p120
+p98
+p90
+p166
+NetDegree: 5
+sb17
+p144
+p102
+p126
+p212
+NetDegree: 7
+sb25
+sb27
+sb7
+sb16
+sb14
+p125
+p83
+NetDegree: 4
+sb18
+p147
+p180
+p79
+NetDegree: 6
+sb25
+sb29
+p79
+p9
+p53
+p65
+NetDegree: 2
+sb3
+p158
+NetDegree: 7
+sb4
+sb29
+p126
+p49
+p121
+p68
+p204
+NetDegree: 11
+sb1
+sb18
+sb29
+sb15
+sb28
+p90
+p3
+p34
+p165
+p174
+p157
+NetDegree: 4
+sb23
+p181
+p169
+p180
+NetDegree: 5
+sb17
+p14
+p209
+p102
+p70
+NetDegree: 12
+sb21
+sb22
+sb26
+sb25
+sb27
+sb6
+p40
+p112
+p120
+p161
+p114
+p185
+NetDegree: 4
+sb24
+sb23
+p212
+p114
+NetDegree: 8
+sb19
+sb16
+sb20
+sb28
+sb27
+sb2
+p160
+p101
+NetDegree: 7
+sb0
+sb4
+sb27
+p173
+p113
+p166
+p125
+NetDegree: 11
+sb21
+sb29
+sb25
+sb23
+sb28
+sb0
+p197
+p126
+p136
+p130
+p8
+NetDegree: 6
+sb17
+p162
+p57
+p196
+p5
+p190
+NetDegree: 8
+sb7
+sb8
+sb22
+sb25
+sb1
+sb11
+p92
+p60
+NetDegree: 5
+sb11
+sb18
+sb15
+sb3
+p139
+NetDegree: 9
+sb2
+sb29
+sb3
+sb24
+sb16
+p41
+p176
+p174
+p25
+NetDegree: 5
+sb17
+sb18
+p58
+p24
+p175
+NetDegree: 5
+sb4
+sb13
+sb20
+p198
+p99
+NetDegree: 7
+sb27
+sb22
+p89
+p212
+p45
+p58
+p88
+NetDegree: 2
+sb14
+p9
+NetDegree: 10
+sb13
+sb17
+sb14
+sb21
+sb26
+sb2
+p29
+p137
+p147
+p197
+NetDegree: 7
+sb6
+sb0
+sb28
+sb14
+p104
+p133
+p136
+NetDegree: 5
+sb29
+sb25
+p98
+p43
+p128
+NetDegree: 4
+sb28
+sb23
+sb15
+p170
+NetDegree: 9
+sb25
+sb28
+sb23
+p202
+p61
+p197
+p7
+p193
+p89
+NetDegree: 6
+sb18
+sb20
+sb13
+p100
+p53
+p5
+NetDegree: 10
+sb21
+sb11
+sb3
+sb29
+p124
+p119
+p112
+p51
+p176
+p69
+NetDegree: 3
+sb17
+p147
+p91
+NetDegree: 10
+sb10
+sb11
+sb13
+sb9
+p60
+p206
+p130
+p188
+p83
+p49
+NetDegree: 3
+sb8
+sb24
+p114
+NetDegree: 9
+sb10
+sb12
+sb2
+sb29
+sb28
+sb22
+p133
+p91
+p86
+NetDegree: 3
+sb4
+p94
+p76
+NetDegree: 9
+sb4
+sb24
+sb25
+sb2
+p17
+p208
+p57
+p76
+p82
+NetDegree: 8
+sb15
+sb3
+sb2
+sb25
+sb7
+p17
+p60
+p112
+NetDegree: 8
+sb5
+sb14
+sb10
+sb0
+p190
+p158
+p12
+p53
+NetDegree: 6
+sb15
+sb17
+sb23
+sb9
+sb11
+p22
+NetDegree: 7
+sb16
+sb26
+sb1
+sb11
+sb28
+sb19
+p128
+NetDegree: 4
+sb16
+sb28
+sb7
+p91
+NetDegree: 11
+sb6
+sb11
+sb24
+sb13
+sb9
+p132
+p97
+p203
+p190
+p36
+p6
+NetDegree: 9
+sb5
+sb12
+sb1
+p1
+p71
+p49
+p47
+p144
+p208
+NetDegree: 8
+sb2
+sb7
+sb8
+sb16
+sb11
+sb17
+p153
+p127
+NetDegree: 9
+sb27
+sb13
+sb9
+sb18
+sb1
+p133
+p64
+p205
+p131
+NetDegree: 7
+sb22
+sb25
+sb21
+p153
+p183
+p51
+p84
+NetDegree: 12
+sb16
+sb25
+sb22
+sb3
+sb26
+sb17
+p144
+p13
+p160
+p75
+p10
+p103
+NetDegree: 4
+sb0
+p167
+p21
+p185
+NetDegree: 3
+sb24
+p35
+p176
+NetDegree: 5
+sb23
+sb0
+sb9
+sb8
+p78
+NetDegree: 5
+sb3
+sb0
+sb25
+sb29
+p25
+NetDegree: 9
+sb25
+sb10
+sb4
+sb11
+sb5
+p197
+p192
+p204
+p37
+NetDegree: 6
+sb4
+sb29
+p138
+p24
+p65
+p174
+NetDegree: 9
+sb5
+sb28
+sb24
+sb2
+sb19
+p85
+p198
+p182
+p109
+NetDegree: 7
+sb21
+sb29
+sb7
+sb24
+p177
+p102
+p16
+NetDegree: 7
+sb2
+sb21
+p19
+p37
+p49
+p74
+p133
+NetDegree: 5
+sb15
+p6
+p22
+p52
+p174
+NetDegree: 12
+sb12
+sb10
+sb8
+sb1
+sb4
+sb29
+p207
+p120
+p183
+p172
+p10
+p198
+NetDegree: 9
+sb24
+sb1
+sb21
+sb18
+sb2
+p5
+p129
+p52
+p165
+NetDegree: 7
+sb5
+sb28
+p66
+p121
+p112
+p44
+p207
+NetDegree: 9
+sb11
+sb9
+sb4
+sb14
+p82
+p96
+p158
+p67
+p43
+NetDegree: 8
+sb5
+sb25
+sb12
+sb21
+sb19
+p172
+p146
+p135
+NetDegree: 5
+sb24
+sb2
+sb4
+sb23
+p132
+NetDegree: 4
+sb5
+p118
+p65
+p155
+NetDegree: 9
+sb15
+sb11
+sb28
+sb4
+sb20
+p159
+p14
+p99
+p59
+NetDegree: 7
+sb29
+sb8
+sb20
+p10
+p13
+p200
+p140
+NetDegree: 4
+sb28
+sb10
+p97
+p5
+NetDegree: 7
+sb3
+sb29
+p197
+p203
+p23
+p76
+p88
+NetDegree: 7
+sb5
+sb11
+sb7
+sb20
+sb19
+sb25
+p44
+NetDegree: 6
+sb29
+sb6
+p55
+p107
+p188
+p126
+NetDegree: 8
+sb1
+sb16
+sb7
+sb0
+sb2
+sb11
+p47
+p8
+NetDegree: 8
+sb8
+sb19
+sb26
+sb14
+sb1
+p64
+p189
+p13
+NetDegree: 5
+sb1
+sb16
+sb12
+p132
+p175
+NetDegree: 7
+sb3
+sb17
+sb10
+p195
+p188
+p11
+p28
+NetDegree: 6
+sb3
+sb16
+sb28
+sb5
+p59
+p161
+NetDegree: 3
+sb12
+sb18
+p208
+NetDegree: 4
+sb1
+sb13
+sb2
+p130
+NetDegree: 12
+sb21
+sb7
+sb14
+sb16
+sb17
+sb13
+p107
+p54
+p73
+p177
+p81
+p210
+NetDegree: 2
+sb24
+p139
+NetDegree: 7
+sb2
+sb3
+sb29
+sb13
+sb0
+p171
+p62
+NetDegree: 2
+sb26
+p4
+NetDegree: 5
+sb2
+sb24
+p172
+p124
+p140
+NetDegree: 5
+sb23
+sb5
+p109
+p209
+p174
+NetDegree: 10
+sb1
+sb8
+sb10
+sb3
+sb9
+p151
+p54
+p192
+p110
+p147
+NetDegree: 8
+sb12
+sb13
+sb16
+sb0
+p162
+p207
+p74
+p105
+NetDegree: 8
+sb4
+sb24
+sb6
+sb14
+p193
+p15
+p71
+p212
+NetDegree: 9
+sb7
+sb11
+sb20
+sb8
+p106
+p98
+p185
+p35
+p64
+NetDegree: 8
+sb9
+sb26
+p17
+p41
+p112
+p43
+p114
+p4
+NetDegree: 4
+sb3
+sb20
+sb23
+p132
+NetDegree: 8
+sb25
+sb0
+sb14
+sb12
+sb7
+sb2
+p46
+p50
+NetDegree: 10
+sb11
+sb18
+sb1
+sb17
+p210
+p50
+p68
+p38
+p162
+p110
+NetDegree: 5
+sb13
+sb17
+p89
+p119
+p53
+NetDegree: 4
+sb9
+sb15
+p72
+p97
+NetDegree: 3
+sb19
+sb21
+p170
+NetDegree: 8
+sb1
+sb0
+sb22
+p139
+p76
+p4
+p8
+p143
+NetDegree: 7
+sb5
+sb12
+p186
+p210
+p120
+p62
+p116
+NetDegree: 8
+sb14
+sb3
+sb19
+p86
+p16
+p27
+p30
+p88
+NetDegree: 5
+sb27
+sb17
+sb25
+sb1
+p196
+NetDegree: 5
+sb17
+sb24
+sb2
+p192
+p13
+NetDegree: 4
+sb3
+sb5
+sb27
+p157
+NetDegree: 9
+sb24
+sb3
+sb13
+sb7
+sb0
+sb14
+p137
+p126
+p22
+NetDegree: 9
+sb15
+sb8
+sb26
+p203
+p16
+p36
+p14
+p7
+p188
+NetDegree: 9
+sb11
+sb21
+sb10
+sb14
+p182
+p49
+p5
+p105
+p15
+NetDegree: 9
+sb7
+sb17
+sb14
+sb21
+sb13
+p144
+p54
+p33
+p117
+NetDegree: 6
+sb11
+sb26
+sb7
+p209
+p93
+p87
+NetDegree: 4
+sb4
+sb7
+p124
+p107
+NetDegree: 3
+sb6
+sb0
+p49
+NetDegree: 6
+sb8
+p195
+p37
+p163
+p14
+p126
+NetDegree: 9
+sb29
+sb14
+sb20
+sb17
+sb25
+sb9
+p122
+p20
+p82
+NetDegree: 3
+sb14
+sb27
+p78
+NetDegree: 10
+sb1
+sb21
+sb2
+sb23
+sb8
+sb25
+p35
+p3
+p8
+p17
+NetDegree: 7
+sb21
+sb10
+sb5
+sb23
+sb28
+p195
+p79
+NetDegree: 10
+sb21
+sb16
+sb4
+sb27
+sb13
+sb8
+p115
+p149
+p97
+p152
+NetDegree: 3
+sb3
+p41
+p120
+NetDegree: 6
+sb23
+p148
+p199
+p135
+p79
+p158
+NetDegree: 5
+sb16
+sb21
+p176
+p206
+p37
+NetDegree: 10
+sb9
+sb14
+sb19
+sb22
+p39
+p182
+p2
+p136
+p154
+p8
+NetDegree: 4
+sb14
+sb15
+sb16
+p105
+NetDegree: 7
+sb6
+sb27
+p93
+p101
+p81
+p175
+p61
+NetDegree: 12
+sb9
+sb3
+sb12
+sb15
+sb26
+sb27
+p21
+p24
+p61
+p188
+p177
+p100
+NetDegree: 5
+sb1
+sb29
+sb9
+sb12
+p175
+NetDegree: 3
+sb19
+sb5
+p83
+NetDegree: 10
+sb26
+sb4
+sb6
+sb29
+p173
+p36
+p184
+p187
+p90
+p63
+NetDegree: 6
+sb8
+sb28
+sb3
+sb26
+sb19
+p202
+NetDegree: 7
+sb26
+sb1
+p7
+p70
+p65
+p135
+p179
+NetDegree: 11
+sb27
+sb28
+sb15
+sb3
+sb19
+p42
+p13
+p146
+p16
+p102
+p28
+NetDegree: 3
+sb16
+p45
+p175
+NetDegree: 5
+sb8
+p54
+p139
+p145
+p136
+NetDegree: 4
+sb7
+sb10
+sb6
+p198
+NetDegree: 4
+sb26
+sb19
+sb25
+p136
+NetDegree: 9
+sb7
+sb23
+sb0
+p101
+p186
+p119
+p135
+p156
+p163
+NetDegree: 5
+sb6
+sb2
+sb8
+p78
+p176
+NetDegree: 11
+sb0
+sb6
+sb23
+sb27
+sb3
+p191
+p87
+p206
+p115
+p67
+p55
+NetDegree: 3
+sb24
+sb20
+p198
+NetDegree: 5
+sb26
+sb21
+p117
+p160
+p96
+NetDegree: 8
+sb27
+sb28
+sb1
+sb24
+sb15
+sb0
+p9
+p30
+NetDegree: 5
+sb28
+sb27
+p40
+p155
+p201
+NetDegree: 10
+sb22
+sb5
+sb23
+sb9
+sb4
+sb25
+p190
+p133
+p163
+p137
+NetDegree: 8
+sb5
+sb19
+sb6
+sb29
+p67
+p137
+p74
+p75
+NetDegree: 12
+sb14
+sb21
+sb0
+sb23
+sb29
+sb28
+p105
+p56
+p127
+p149
+p177
+p144
+NetDegree: 8
+sb26
+sb16
+sb28
+sb24
+sb19
+p201
+p194
+p181
+NetDegree: 8
+sb18
+sb20
+sb11
+sb6
+sb14
+p121
+p114
+p62
+NetDegree: 7
+sb19
+sb13
+sb11
+sb14
+p25
+p18
+p113
+NetDegree: 6
+sb8
+sb14
+p67
+p147
+p185
+p83
+NetDegree: 11
+sb5
+sb9
+sb13
+sb17
+sb27
+sb3
+p201
+p197
+p174
+p110
+p130
+NetDegree: 3
+sb1
+sb26
+p22
+NetDegree: 10
+sb13
+sb9
+sb12
+sb1
+sb21
+p174
+p92
+p42
+p146
+p212
+NetDegree: 4
+sb16
+p14
+p46
+p13
+NetDegree: 7
+sb10
+sb18
+sb24
+p158
+p200
+p119
+p19
+NetDegree: 7
+sb25
+sb23
+sb21
+sb4
+p140
+p71
+p94
+NetDegree: 5
+sb26
+p141
+p178
+p146
+p172
+NetDegree: 6
+sb1
+sb26
+sb8
+sb15
+p87
+p133
+NetDegree: 7
+sb14
+sb1
+sb5
+sb13
+sb22
+sb7
+p31
+NetDegree: 9
+sb11
+sb28
+sb15
+p197
+p111
+p134
+p162
+p77
+p93
+NetDegree: 3
+sb10
+p21
+p197
+NetDegree: 8
+sb6
+sb5
+sb19
+sb12
+sb11
+sb13
+p128
+p63
+NetDegree: 3
+sb0
+sb19
+p4
+NetDegree: 7
+sb8
+sb17
+p140
+p121
+p120
+p62
+p103
+NetDegree: 8
+sb16
+sb9
+sb5
+sb3
+p98
+p46
+p199
+p34
+NetDegree: 7
+sb27
+sb1
+sb10
+p44
+p27
+p115
+p196
+NetDegree: 9
+sb26
+sb21
+sb27
+p187
+p125
+p195
+p128
+p33
+p76
+NetDegree: 8
+sb19
+sb17
+p161
+p31
+p115
+p78
+p108
+p133
+NetDegree: 7
+sb26
+sb28
+sb23
+p203
+p70
+p78
+p105
+NetDegree: 7
+sb23
+sb1
+sb11
+sb20
+sb19
+p22
+p116
+NetDegree: 7
+sb26
+sb11
+sb5
+sb7
+sb29
+p114
+p91
+NetDegree: 12
+sb3
+sb2
+sb5
+sb25
+sb20
+sb10
+p167
+p69
+p202
+p92
+p186
+p163
+NetDegree: 2
+sb19
+p26
+NetDegree: 8
+sb18
+sb12
+p167
+p151
+p104
+p120
+p179
+p53
+NetDegree: 7
+sb18
+sb28
+p74
+p165
+p154
+p147
+p129
+NetDegree: 7
+sb20
+sb13
+sb5
+sb21
+p15
+p179
+p131
+NetDegree: 5
+sb23
+p129
+p139
+p148
+p159
+NetDegree: 8
+sb5
+sb0
+sb9
+sb20
+sb1
+sb25
+p103
+p86
+NetDegree: 5
+sb25
+sb5
+p3
+p33
+p207
+NetDegree: 3
+sb3
+p111
+p89
+NetDegree: 3
+sb14
+sb21
+p36
+NetDegree: 11
+sb16
+sb12
+sb28
+sb3
+sb10
+p2
+p172
+p109
+p55
+p131
+p211
+NetDegree: 9
+sb12
+sb1
+sb27
+p87
+p84
+p126
+p23
+p157
+p167
+NetDegree: 10
+sb24
+sb16
+sb7
+sb15
+sb13
+p190
+p147
+p50
+p83
+p116
+NetDegree: 5
+sb6
+sb8
+p197
+p203
+p79
+NetDegree: 10
+sb0
+sb10
+sb27
+sb6
+sb21
+p61
+p12
+p158
+p55
+p56
+NetDegree: 7
+sb3
+p19
+p113
+p5
+p133
+p48
+p206
+NetDegree: 5
+sb11
+sb12
+sb27
+p21
+p39
+NetDegree: 2
+sb12
+p170
+NetDegree: 3
+sb20
+sb23
+p51
+NetDegree: 10
+sb27
+sb16
+sb6
+sb9
+sb29
+sb4
+p56
+p2
+p141
+p8
+NetDegree: 6
+sb17
+sb21
+sb13
+p72
+p186
+p96
+NetDegree: 6
+sb29
+sb5
+p99
+p29
+p90
+p25
+NetDegree: 6
+sb11
+sb29
+sb20
+sb5
+p171
+p14
+NetDegree: 6
+sb22
+p147
+p203
+p76
+p195
+p125
+NetDegree: 6
+sb2
+sb25
+sb9
+sb19
+sb18
+p161
+NetDegree: 6
+sb16
+sb11
+p129
+p104
+p128
+p56
+NetDegree: 4
+sb22
+sb10
+sb15
+p35
+NetDegree: 10
+sb26
+sb13
+sb17
+sb21
+sb0
+sb10
+p32
+p73
+p69
+p52
+NetDegree: 10
+sb1
+sb15
+sb12
+sb16
+p178
+p94
+p15
+p69
+p9
+p71
+NetDegree: 11
+sb2
+sb25
+sb7
+sb17
+sb13
+sb0
+p33
+p5
+p4
+p87
+p37
+NetDegree: 5
+sb9
+sb11
+sb15
+sb2
+p41
+NetDegree: 4
+sb21
+p95
+p153
+p186
+NetDegree: 6
+sb1
+sb19
+sb11
+p11
+p28
+p187
+NetDegree: 3
+sb27
+sb26
+p109
+NetDegree: 11
+sb17
+sb14
+sb21
+sb15
+sb22
+p85
+p155
+p48
+p125
+p72
+p138
+NetDegree: 6
+sb1
+sb5
+p180
+p91
+p133
+p18
+NetDegree: 3
+sb0
+sb19
+p154
+NetDegree: 5
+sb26
+p61
+p4
+p16
+p205
+NetDegree: 3
+sb5
+sb14
+p137
+NetDegree: 8
+sb11
+sb15
+sb4
+sb13
+sb21
+sb19
+p7
+p85
+NetDegree: 8
+sb16
+sb7
+sb19
+sb3
+sb29
+p130
+p153
+p174
+NetDegree: 10
+sb26
+sb27
+sb9
+sb16
+sb20
+p54
+p110
+p144
+p11
+p77
+NetDegree: 5
+sb21
+p201
+p155
+p163
+p86
+NetDegree: 7
+sb17
+sb7
+p72
+p84
+p24
+p71
+p125
+NetDegree: 6
+sb2
+sb0
+sb5
+sb20
+sb27
+p103
+NetDegree: 7
+sb2
+p116
+p67
+p199
+p192
+p187
+p212
+NetDegree: 8
+sb12
+sb13
+sb11
+p168
+p16
+p82
+p65
+p119
+NetDegree: 11
+sb10
+sb2
+sb3
+sb17
+sb26
+p100
+p21
+p155
+p127
+p161
+p51
+NetDegree: 9
+sb16
+sb6
+sb20
+sb11
+sb28
+p74
+p150
+p155
+p23
+NetDegree: 6
+sb1
+sb22
+p174
+p189
+p147
+p82
+NetDegree: 4
+sb4
+p184
+p90
+p29
+NetDegree: 10
+sb22
+sb2
+sb0
+sb24
+sb25
+sb3
+p34
+p151
+p117
+p2
+NetDegree: 4
+sb15
+sb3
+p135
+p85
+NetDegree: 10
+sb13
+sb12
+sb18
+sb22
+sb23
+p94
+p88
+p99
+p183
+p148
+NetDegree: 5
+sb11
+p121
+p14
+p211
+p5
+NetDegree: 6
+sb27
+sb1
+sb7
+sb2
+p103
+p161
+NetDegree: 10
+sb13
+sb19
+sb29
+sb23
+sb3
+sb4
+p7
+p186
+p148
+p100
+NetDegree: 5
+sb7
+sb3
+sb25
+p167
+p2
+NetDegree: 7
+sb13
+sb18
+p122
+p203
+p22
+p1
+p98
+NetDegree: 6
+sb29
+sb19
+sb12
+sb9
+sb18
+p85
+NetDegree: 6
+sb2
+p184
+p18
+p10
+p65
+p116
+NetDegree: 7
+sb0
+sb22
+sb24
+p7
+p129
+p188
+p171
+NetDegree: 8
+sb15
+sb25
+p63
+p136
+p172
+p109
+p158
+p49
+NetDegree: 8
+sb11
+sb12
+sb28
+p162
+p83
+p66
+p212
+p124
+NetDegree: 7
+sb29
+sb5
+p25
+p183
+p82
+p63
+p99
+NetDegree: 7
+sb8
+sb26
+sb18
+sb3
+p118
+p200
+p198
+NetDegree: 5
+sb29
+sb15
+sb28
+sb10
+p63
+NetDegree: 6
+sb12
+p9
+p126
+p57
+p170
+p60
+NetDegree: 3
+sb19
+sb21
+p177
+NetDegree: 8
+sb5
+sb16
+sb6
+p108
+p83
+p12
+p13
+p103
+NetDegree: 9
+sb14
+sb8
+sb9
+p128
+p27
+p10
+p70
+p153
+p154
+NetDegree: 8
+sb5
+sb27
+p125
+p140
+p14
+p29
+p71
+p190
+NetDegree: 10
+sb8
+sb24
+sb22
+sb2
+sb21
+p131
+p183
+p198
+p159
+p29
+NetDegree: 9
+sb27
+sb12
+sb13
+sb4
+sb6
+sb15
+p30
+p106
+p200
+NetDegree: 7
+sb26
+sb8
+sb11
+p17
+p184
+p72
+p150
+NetDegree: 8
+sb15
+sb22
+sb5
+p38
+p207
+p17
+p197
+p23
+NetDegree: 5
+sb15
+sb2
+p92
+p14
+p19
+NetDegree: 8
+sb21
+sb20
+sb10
+sb28
+p203
+p120
+p165
+p174
+NetDegree: 11
+sb19
+sb6
+sb13
+sb3
+sb11
+p79
+p15
+p142
+p63
+p37
+p62
+NetDegree: 7
+sb15
+sb18
+sb5
+sb7
+sb27
+sb24
+p77
+NetDegree: 9
+sb8
+sb1
+sb2
+sb26
+p103
+p58
+p89
+p145
+p11
+NetDegree: 8
+sb17
+sb3
+p185
+p131
+p150
+p147
+p13
+p6
+NetDegree: 8
+sb1
+sb12
+sb8
+sb7
+sb11
+sb27
+p182
+p112
+NetDegree: 7
+sb10
+sb0
+p211
+p131
+p107
+p88
+p39
+NetDegree: 8
+sb8
+sb15
+sb5
+sb11
+sb6
+p132
+p15
+p69
+NetDegree: 11
+sb17
+sb15
+sb13
+sb29
+sb23
+p159
+p105
+p190
+p128
+p4
+p179
+NetDegree: 8
+sb12
+sb10
+p203
+p77
+p172
+p29
+p147
+p90
+NetDegree: 2
+sb25
+p80
+NetDegree: 6
+sb11
+sb24
+sb20
+sb15
+sb6
+p89
+NetDegree: 7
+sb24
+sb26
+sb4
+p194
+p178
+p155
+p68
+NetDegree: 7
+sb27
+sb15
+sb20
+sb11
+p200
+p21
+p91
+NetDegree: 8
+sb1
+sb5
+sb13
+sb29
+p65
+p17
+p177
+p167
+NetDegree: 8
+sb15
+sb4
+sb14
+sb20
+sb25
+p142
+p85
+p71
+NetDegree: 3
+sb23
+p206
+p82
+NetDegree: 7
+sb4
+sb24
+sb7
+p120
+p136
+p129
+p125
+NetDegree: 5
+sb1
+sb22
+sb25
+p180
+p95
+NetDegree: 8
+sb2
+sb1
+sb27
+sb14
+sb19
+sb3
+p95
+p4
+NetDegree: 6
+sb17
+sb29
+sb25
+sb1
+p181
+p94
+NetDegree: 8
+sb5
+sb22
+sb19
+sb7
+sb18
+sb25
+p130
+p182
+NetDegree: 8
+sb27
+sb18
+sb29
+p100
+p96
+p186
+p65
+p203
+NetDegree: 4
+sb0
+sb19
+sb3
+p196
+NetDegree: 6
+sb11
+sb6
+sb5
+p187
+p196
+p52
+NetDegree: 11
+sb15
+sb6
+sb19
+sb26
+sb27
+sb16
+p157
+p190
+p105
+p152
+p109
+NetDegree: 10
+sb27
+sb6
+sb17
+sb13
+p107
+p57
+p207
+p122
+p94
+p9
+NetDegree: 7
+sb9
+p111
+p59
+p115
+p204
+p199
+p206
+NetDegree: 4
+sb10
+sb21
+sb22
+p63
+NetDegree: 10
+sb11
+sb24
+sb13
+sb2
+sb19
+p204
+p99
+p110
+p49
+p125
+NetDegree: 7
+sb0
+sb6
+sb26
+p196
+p85
+p127
+p130
+NetDegree: 4
+sb21
+p165
+p9
+p30
+NetDegree: 9
+sb19
+sb7
+sb18
+sb22
+sb1
+sb2
+p136
+p46
+p30
+NetDegree: 11
+sb1
+sb8
+sb14
+sb7
+sb23
+p9
+p165
+p204
+p25
+p37
+p118
+NetDegree: 11
+sb2
+sb14
+sb24
+sb26
+sb7
+sb3
+p150
+p101
+p3
+p2
+p46
+NetDegree: 11
+sb28
+sb3
+sb1
+sb18
+sb20
+p17
+p90
+p203
+p206
+p45
+p212
+NetDegree: 11
+sb19
+sb28
+sb21
+sb4
+sb26
+sb23
+p126
+p140
+p147
+p103
+p179
+NetDegree: 12
+sb11
+sb2
+sb7
+sb20
+sb22
+sb10
+p86
+p15
+p97
+p134
+p136
+p88
+NetDegree: 10
+sb22
+sb2
+sb20
+sb11
+sb15
+p161
+p162
+p147
+p88
+p96
+NetDegree: 3
+sb18
+sb6
+p88
+NetDegree: 6
+sb4
+sb2
+sb0
+p209
+p196
+p127
+NetDegree: 8
+sb2
+sb9
+sb1
+sb6
+sb23
+p200
+p151
+p111
+NetDegree: 8
+sb12
+sb19
+sb18
+sb0
+p26
+p88
+p168
+p112
+NetDegree: 10
+sb26
+sb28
+sb5
+sb0
+p131
+p204
+p209
+p147
+p119
+p121
+NetDegree: 8
+sb6
+sb15
+sb0
+sb29
+sb2
+p9
+p201
+p154
+NetDegree: 3
+sb23
+sb12
+p39
+NetDegree: 9
+sb0
+sb27
+sb17
+sb15
+sb7
+p18
+p66
+p72
+p9
+NetDegree: 8
+sb22
+sb9
+p153
+p115
+p154
+p150
+p185
+p32
+NetDegree: 4
+sb17
+p108
+p33
+p24
+NetDegree: 8
+sb9
+sb10
+sb11
+p120
+p150
+p193
+p46
+p35
+NetDegree: 5
+sb29
+sb19
+sb16
+sb4
+p31
+NetDegree: 5
+sb2
+sb25
+sb5
+sb16
+p201
+NetDegree: 8
+sb8
+sb13
+sb29
+p33
+p157
+p21
+p173
+p39
+NetDegree: 10
+sb17
+sb22
+sb24
+sb16
+sb6
+p199
+p149
+p79
+p12
+p72
+NetDegree: 5
+sb28
+sb0
+sb8
+p200
+p189
+NetDegree: 5
+sb2
+p91
+p189
+p13
+p124
+NetDegree: 2
+sb29
+p2
+NetDegree: 10
+sb23
+sb4
+sb14
+sb9
+sb12
+p189
+p200
+p28
+p55
+p211
+NetDegree: 9
+sb24
+sb16
+sb5
+p117
+p58
+p110
+p133
+p34
+p201
+NetDegree: 3
+sb14
+p166
+p82
+NetDegree: 5
+sb26
+p16
+p4
+p200
+p52
+NetDegree: 6
+sb23
+sb25
+p157
+p169
+p65
+p188
+NetDegree: 7
+sb25
+sb4
+sb8
+p164
+p3
+p93
+p84
+NetDegree: 5
+sb27
+sb16
+sb2
+sb12
+p10
+NetDegree: 3
+sb12
+p116
+p211
+NetDegree: 9
+sb23
+sb28
+sb11
+sb5
+p85
+p106
+p21
+p172
+p167

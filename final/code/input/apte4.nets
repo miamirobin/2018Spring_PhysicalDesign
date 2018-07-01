@@ -1,0 +1,746 @@
+NumNets: 96
+NetDegree: 3
+cc_24
+new28
+new2
+NetDegree: 8
+cc_22
+cc_23
+cc_12
+new51
+new28
+new2
+new52
+new11
+NetDegree: 3
+cc_21
+new32
+new42
+NetDegree: 9
+cc_21
+cc_14
+cc_12
+cc_11
+cc_24
+new55
+new42
+new39
+new74
+NetDegree: 10
+cc_14
+cc_24
+cc_11
+cc_13
+cc_12
+new81
+new75
+new2
+Phi
+new77
+NetDegree: 3
+cc_13
+new1
+new10
+NetDegree: 8
+cc_13
+cc_23
+cc_11
+new1
+new21
+new7
+new56
+new67
+NetDegree: 9
+cc_22
+cc_14
+cc_11
+new75
+new64
+new40
+new55
+new31
+new17
+NetDegree: 9
+cc_23
+clk
+cc_24
+new69
+new11
+new81
+new16
+new55
+new51
+NetDegree: 7
+cc_11
+cc_22
+new83
+VDD
+new60
+new5
+new31
+NetDegree: 8
+cc_11
+cc_22
+cc_21
+cc_12
+cc_14
+new7
+new8
+new55
+NetDegree: 10
+cc_11
+cc_13
+cc_24
+cc_12
+new56
+new86
+GND
+new5
+new42
+new29
+NetDegree: 8
+cc_12
+cc_22
+cc_23
+cc_24
+cc_11
+cc_21
+new52
+new74
+NetDegree: 5
+cc_23
+new72
+new81
+new39
+new43
+NetDegree: 7
+cc_11
+new62
+new29
+new79
+new4
+new41
+new51
+NetDegree: 4
+cc_14
+new55
+new52
+new11
+NetDegree: 5
+cc_22
+cc_23
+cc_21
+VDD
+new41
+NetDegree: 11
+cc_21
+cc_22
+cc_11
+cc_13
+cc_23
+cc_14
+new85
+new43
+new62
+new20
+new7
+NetDegree: 6
+cc_22
+clk
+cc_11
+cc_23
+cc_24
+new86
+NetDegree: 9
+cc_21
+cc_11
+clk
+cc_23
+cc_12
+cc_13
+VSS
+new6
+new0
+NetDegree: 7
+cc_23
+clk
+new41
+new64
+new56
+new66
+new54
+NetDegree: 7
+clk
+cc_13
+cc_23
+cc_21
+cc_22
+new6
+new75
+NetDegree: 4
+cc_24
+cc_22
+new22
+new31
+NetDegree: 3
+cc_21
+cc_23
+new63
+NetDegree: 7
+cc_21
+new63
+new81
+GND
+TestHS1
+new32
+new21
+NetDegree: 10
+cc_23
+cc_21
+clk
+cc_13
+cc_11
+cc_14
+new64
+new66
+new76
+new67
+NetDegree: 6
+cc_22
+new78
+new29
+new42
+VDD
+new58
+NetDegree: 7
+cc_12
+cc_23
+clk
+cc_22
+cc_11
+cc_21
+new81
+NetDegree: 7
+cc_21
+cc_12
+cc_13
+cc_22
+cc_24
+new72
+new0
+NetDegree: 10
+clk
+cc_21
+cc_23
+cc_22
+cc_13
+cc_11
+new55
+new18
+new4
+new21
+NetDegree: 9
+cc_11
+cc_22
+clk
+cc_21
+cc_24
+cc_12
+new3
+TestHS1
+new31
+NetDegree: 4
+cc_22
+cc_23
+cc_13
+new55
+NetDegree: 9
+cc_24
+cc_21
+cc_11
+new56
+new65
+new63
+new74
+new51
+new83
+NetDegree: 4
+cc_21
+cc_23
+new8
+new22
+NetDegree: 12
+cc_11
+cc_23
+cc_14
+cc_21
+cc_24
+cc_13
+new33
+new66
+new51
+new64
+new39
+new2
+NetDegree: 3
+cc_23
+clk
+new73
+NetDegree: 5
+cc_11
+cc_24
+cc_21
+clk
+new72
+NetDegree: 8
+cc_14
+cc_24
+cc_22
+cc_21
+cc_13
+cc_11
+new81
+TestHS1
+NetDegree: 12
+cc_14
+cc_21
+clk
+cc_24
+cc_12
+cc_13
+new59
+new79
+VDD
+new15
+new72
+new62
+NetDegree: 6
+clk
+new46
+Phi
+new62
+new78
+new16
+NetDegree: 5
+clk
+new66
+new77
+new69
+new57
+NetDegree: 7
+clk
+cc_12
+cc_21
+cc_23
+cc_22
+cc_11
+new21
+NetDegree: 9
+cc_13
+cc_21
+cc_22
+new83
+new15
+new33
+Phi
+new3
+new77
+NetDegree: 7
+cc_11
+cc_22
+clk
+cc_12
+cc_21
+new79
+new16
+NetDegree: 12
+cc_12
+cc_13
+clk
+cc_21
+cc_14
+cc_22
+new10
+new66
+new4
+new50
+new77
+new40
+NetDegree: 3
+cc_22
+new15
+new28
+NetDegree: 9
+cc_22
+cc_11
+cc_23
+cc_12
+cc_24
+cc_21
+new83
+new59
+new18
+NetDegree: 8
+cc_21
+clk
+new21
+new86
+new41
+new5
+new79
+new7
+NetDegree: 5
+cc_13
+cc_11
+new84
+new3
+new65
+NetDegree: 7
+cc_23
+cc_13
+clk
+new82
+VSS
+new77
+new19
+NetDegree: 12
+cc_12
+cc_13
+cc_22
+clk
+cc_14
+cc_21
+new81
+new56
+new66
+new17
+new51
+new70
+NetDegree: 7
+cc_14
+cc_12
+new54
+new74
+new67
+GND
+new84
+NetDegree: 6
+clk
+cc_12
+cc_13
+cc_24
+cc_22
+new41
+NetDegree: 7
+cc_21
+cc_24
+new3
+new67
+new57
+new59
+new39
+NetDegree: 4
+clk
+new18
+new28
+new54
+NetDegree: 4
+cc_21
+cc_24
+cc_22
+new2
+NetDegree: 4
+cc_13
+cc_21
+GND
+new70
+NetDegree: 10
+cc_24
+cc_21
+cc_14
+clk
+new0
+new40
+new52
+new57
+new74
+new82
+NetDegree: 6
+cc_22
+cc_21
+cc_23
+cc_24
+new60
+new19
+NetDegree: 6
+cc_12
+clk
+cc_13
+new76
+Phi
+new18
+NetDegree: 7
+cc_13
+cc_11
+new60
+new4
+new46
+new43
+new77
+NetDegree: 6
+cc_24
+new43
+new64
+new10
+new83
+new19
+NetDegree: 5
+clk
+new41
+new28
+new42
+Phi
+NetDegree: 6
+cc_23
+cc_22
+clk
+cc_24
+new72
+new64
+NetDegree: 5
+cc_11
+cc_24
+new73
+new1
+new40
+NetDegree: 5
+cc_14
+cc_11
+cc_22
+new74
+new85
+NetDegree: 8
+clk
+cc_24
+cc_21
+cc_12
+cc_23
+new64
+new67
+new81
+NetDegree: 7
+cc_24
+cc_13
+clk
+new67
+new1
+new62
+new50
+NetDegree: 8
+cc_12
+cc_14
+cc_23
+cc_13
+new62
+GND
+new33
+new63
+NetDegree: 7
+cc_23
+cc_24
+cc_13
+clk
+cc_21
+cc_12
+new64
+NetDegree: 2
+cc_21
+GND
+NetDegree: 5
+cc_14
+new15
+new54
+new86
+new4
+NetDegree: 7
+cc_24
+new51
+new43
+new39
+new19
+new58
+new76
+NetDegree: 5
+cc_13
+cc_12
+new66
+VDD
+new11
+NetDegree: 6
+cc_12
+cc_21
+new77
+new40
+new10
+new32
+NetDegree: 6
+clk
+cc_11
+cc_12
+cc_13
+new81
+new1
+NetDegree: 4
+cc_12
+cc_14
+clk
+new29
+NetDegree: 7
+cc_22
+clk
+cc_13
+cc_21
+cc_24
+cc_11
+new22
+NetDegree: 6
+cc_23
+cc_21
+cc_12
+cc_24
+new2
+new7
+NetDegree: 8
+cc_24
+cc_21
+new67
+VDD
+new19
+new51
+new7
+new29
+NetDegree: 7
+cc_11
+new63
+new33
+new7
+new60
+new11
+new70
+NetDegree: 3
+cc_12
+new75
+new85
+NetDegree: 6
+cc_14
+cc_24
+cc_11
+cc_22
+new8
+new11
+NetDegree: 9
+cc_22
+cc_12
+cc_14
+cc_13
+new66
+new62
+new74
+new31
+new73
+NetDegree: 9
+cc_24
+cc_22
+clk
+cc_23
+cc_21
+cc_14
+new84
+new0
+new4
+NetDegree: 6
+cc_21
+cc_23
+cc_22
+cc_14
+cc_11
+new83
+NetDegree: 8
+cc_22
+cc_21
+cc_14
+cc_13
+clk
+new44
+new18
+new17
+NetDegree: 6
+cc_13
+cc_14
+cc_21
+cc_23
+new85
+new21
+NetDegree: 11
+cc_21
+clk
+cc_23
+cc_12
+cc_14
+new19
+new10
+new29
+new85
+new2
+new86
+NetDegree: 3
+cc_12
+cc_21
+new72
+NetDegree: 6
+cc_23
+cc_12
+cc_13
+clk
+new33
+new55
+NetDegree: 3
+cc_13
+cc_23
+new19
+NetDegree: 9
+cc_14
+cc_23
+cc_22
+clk
+new63
+new66
+GND
+new85
+VSS
+NetDegree: 10
+cc_14
+cc_13
+cc_24
+cc_11
+new7
+new69
+new28
+new60
+new6
+new79
+NetDegree: 7
+cc_21
+new59
+new58
+new32
+new11
+new79
+new17
+NetDegree: 6
+cc_23
+cc_13
+new51
+new39
+new3
+new44
