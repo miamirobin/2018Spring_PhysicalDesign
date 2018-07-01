@@ -5,4 +5,3 @@ final/code/*/* linguist-documentation
 pa1/src/* linguist-documentation=false
 pa2/src/* linguist-documentation=false
 pa3/src/* linguist-documentation=false
-final/code/src/* linguist-documentation=false
